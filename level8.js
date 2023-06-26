@@ -3,99 +3,67 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Vad är det som rullar och skramlar i min mage?'
+      img: "It's your little girl,"  
     },
     {
       name: '1',
-      img: 'What is rolling and rattling in my stomach?'
+      img: 'C’est votre petite fille, '
     },
     {
       name: '2',
-      img: 'Jag trodde det var sex små killingar,'
+      img: 'I bring you a pancake and a small pot of butter.'
     },
     {
       name: '2',
-      img: 'I thought it was six little guys,'
+      img: 'je vous apporte une galette et un petit pot de beurre.'
     },
     {
       name: '3',
-      img: 'Men nu känns det som stora stenbumlingar.'
+      img: 'The wolf answered in a soft voice:'
     },
     {
       name: '3',
-      img: 'But now it feels like big boulders.'
+      img: 'Le loup a répondu d’une voix douce :'
     },
     {
       name: '4',
-      img: 'Och när han kom fram till brunnen och lutade sig fram för att dricka,'
+      img: 'Come in my little one! Between !'
     },
     {
       name: '4',
-      img: 'And when he came to the well and leaned forward to drink, '
+      img: 'Entre ma petite ! Entre ! '
     },
     {
       name: '5',
-      img: 'gjorde de tunga stenarna att han tappade balansen och föll i vattnet och drunknade. '
+      img: 'Little Red Riding Hood opened the door.  '
     },
     {
       name: '5',
-      img: 'the heavy stones caused him to lose his balance and fall into the water and drown. '
+      img: 'Le Petit Chaperon rouge a ouvert la porte.  '
     },
     {
       name: '6',
-      img: 'När killingarna såg detta, kom de omedelbart springande och ropade högt och ljudligt:'
+      img: 'The wolf hid under the blanket and said to him:'
     },
     {
       name: '6',
-      img: 'When the kittens saw this, they immediately came running and shouted loudly and loudly: '
+      img: 'Le loup s’est caché sous la couverture et lui a dit : '
     },
     {
       name: '7',
-      img: 'Vargen är död! Vargen är död!'
+      img: 'Put the pancake and the little pot of butter on the table'
     },
     {
       name: '7',
-      img: "The wolf is dead! The wolf is dead!"
+      img: "Pose la galette et le petit pot de beurre sur la table"
     },
     {
       name: '8',
-      img: 'De dansade av glädje runt källan tillsammans med sin mor.'
+      img: 'and come and sleep with me.'
     },
     {
       name: '8',
-      img: "They danced for joy around the spring together with their mother."
-    },
-    {
-      name: '9',
-      img: 'Sedan gick de lyckliga hem och visste att de inte längre behövde vara rädda för vargen. '
-    },
-    {
-      name: '9',
-      img: 'Then they went home happy knowing that they no longer needed to be afraid of the wolf.'
-    },
-    {
-      name: '10',
-      img: 'En mjölnare hade tre söner.'
-    },
-    {
-      name: '10',
-      img: 'A miller had three sons.'
-    },
-    {
-      name: '11',
-      img: 'När han dog ärvde den äldste sonen kvarnen, den näst äldste fick åsnan och till den yngste blev bara katten kvar.'
-    },
-    {
-      name: '11',
-      img: 'When he died, the oldest son inherited the mill, the second oldest got the donkey, and the youngest got only the cat.'
-    },
-    {
-      name: '12',
-      img: 'Vad ska jag ta mig till med en katt?'
-    },
-    {
-      name: '12',
-      img: 'What am I going to do with a cat?'
+      img: "et viens te coucher avec moi."
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

@@ -3,99 +3,59 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Han knöt upp säcken med sädeskornen och lade den öppen på marken.'
+      img: "It's to hear you well, my little girl."
     },
     {
       name: '1',
-      img: 'He untied the sack of grain and laid it open on the ground.'
+      img: 'C’est pour bien t’entendre, ma petite fille.'
     },
     {
       name: '2',
-      img: 'Snöret lade han i gräset och drog det bort till en häck. '
+      img: 'Grandma, you have big teeth. '
     },
     {
       name: '2',
-      img: 'He laid the string in the grass and pulled it away to a hedge. '
+      img: ' Grand-mère, vous avez de grandes dents.'
     },
     {
       name: '3',
-      img: 'Där gömde han sig och låg på lur.'
+      img: "It's to eat you."
     },
     {
       name: '3',
-      img: 'There he hid and lay in wait. '
+      img: 'C’est pour te manger.'
     },
     {
       name: '4',
-      img: 'Snart kom rapphönsen.'
+      img: 'So the wolf ate the little girl.'
     },
     {
       name: '4',
-      img: 'Soon the partridges arrived.'
+      img: 'Alors, le loup a mangé la petite fille.'
     },
     {
       name: '5',
-      img: 'De hoppade in i kornsäcken. '
+      img: 'Attention ladies,  '
     },
     {
       name: '5',
-      img: 'They jumped into the grain sack.'
+      img: 'Attention mesdemoiselles,'
     },
     {
       name: '6',
-      img: ' När tillräckligt många hade krupit in, drog katten åt snöret. '
+      img: '  the kindest wolves are also the most dangerous. '
     },
     {
       name: '6',
-      img: 'When enough people had crawled in, the cat pulled the string. '
+      img: 'les loups les plus gentils sont aussi les plus dangereux. '
     },
     {
       name: '7',
-      img: 'Sedan tog han säcken på ryggen och gick raka vägen till kungens slott.'
+      img: 'Puss in Boots'
     },
     {
       name: '7',
-      img: "Then he put the sack on his back and went straight to the king's castle."
-    },
-    {
-      name: '8',
-      img: "Stopp! Varthän? ropade vakten."
-    },
-    {
-      name: '8',
-      img: 'Stop! Where? shouted the guard.'
-    },
-    {
-      name: '9',
-      img: 'Till kungen, svarade katten frimodigt.'
-    },
-    {
-      name: '9',
-      img: 'To the king, answered the cat boldly.'
-    },
-    {
-      name: '10',
-      img: 'Eftersom kungen hade långtråkigt släpptes katten in.'
-    },
-    {
-      name: '10',
-      img: 'Since the king was bored, the cat was let in. '
-    },
-    {
-      name: '11',
-      img: 'Han bugade sig djupt för kungen och sa:'
-    },
-    {
-      name: '11',
-      img: 'He bowed deeply to the king and said:'
-    },
-    {
-      name: '12',
-      img: 'Min herre, greven, låter hälsa sin konung. '
-    },
-    {
-      name: '12',
-      img: 'My lord, the count, sends greetings to his king. '
+      img: "Le chat botté"
     }
   ]
 

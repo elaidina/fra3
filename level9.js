@@ -3,99 +3,75 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: ' Jag kan i bästa fall låta göra ett par skinnhandskar av pälsen.'
+      img: ' Little Red Riding Hood undressed'
     },
     {
       name: '1',
-      img: "At best, I can have a pair of leather gloves made from the fur."
+      img: "Le Petit Chaperon rouge s’est déshabillée"
     },
     {
       name: '2',
-      img: 'Hör på, sa då katten till honom. '
+      img: 'and went to bed. '
     },
     {
       name: '2',
-      img: " Listen, the cat then told him. "
+      img: " et s’est couchée. "
     },
     {
       name: '3',
-      img: 'Döda mig inte.'
+      img: 'She thought her grandmother was a little weird. '
     },
     {
       name: '3',
-      img: "Do not kill me. "
+      img: "Elle a trouvé que sa grand-mère était un peu bizarre. "
     },
     {
       name: '4',
-      img: 'Låt istället göra ett par stövlar åt mig, så att jag kan visa mig ute bland folk.'
+      img: 'She said to him:'
     },
     {
       name: '4',
-      img: 'Instead, have a pair of boots made for me, so that I can show myself out among people.'
+      img: 'Elle lui a dit :'
     },
     {
       name: '5',
-      img: 'Då kommer du snart att få hjälp.'
+      img: 'Grandmother, your arms are very big.'
     },
     {
       name: '5',
-      img: 'Then you will soon get help.      '
+      img: 'Grand-mère, vos bras sont très grands.      '
     },
     {
       name: '6',
-      img: 'Mjölnarsonen blev förvånad över att hans katt kunde tala och han lät göra ett par stövlar åt honom. '
+      img: "It's to kiss you well, my little girl. "
     },
     {
       name: '6',
-      img: 'Mjölnarsonen was surprised that his cat could speak and he had a pair of boots made for him. '
+      img: 'C’est pour bien t’embrasser, ma petite fille. '
     },
     {
       name: '7',
-      img: 'När de var färdiga drog katten dem på sig. '
+      img: 'Grandma, you have long legs. '
     },
     {
       name: '7',
-      img: 'When they were done, the cat pulled them on him.'
+      img: 'Grand-mère, vous avez de grandes jambes.'
     },
     {
       name: '8',
-      img: 'Sedan tog han en säck och hällde ner lite säd i den.'
+      img: "It's for running fast, my little girl."
     },
     {
       name: '8',
-      img: 'Then he took a sack and poured some grain into it.'
+      img: 'C’est pour courir vite, ma petite fille.'
     },
     {
       name: '9',
-      img: 'Därefter letade han reda på ett snöre, så att han skulle kunna binda ihop säcken.'
+      img: "Grandma, you have big ears."
     },
     {
       name: '9',
-      img: 'Next he looked for a string, so that he could tie the sack together.'
-    },
-    {
-      name: '10',
-      img: "Till sist slängde han upp säcken över axeln och gick sin väg."
-    },
-    {
-      name: '10',
-      img: 'At last he slung the sack over his shoulder and went on his way.'
-    },
-    {
-      name: '11',
-      img: "På den tiden regerades landet av en kung som tyckte mycket om rapphöns. "
-    },
-    {
-      name: '11',
-      img: 'At that time, the country was ruled by a king who was very fond of partridges. '
-    },
-    {
-      name: '12',
-      img: 'Det visste katten och eftersom de var svåra att skjuta, hade han listat ut ett sätt att ta dem till fånga.'
-    },
-    {
-      name: '12',
-      img: 'The cat knew that and since they were hard to shoot, he had figured out a way to capture them. '
+      img: ' Grand-mère, vous avez de grandes oreilles.'
     }
   ]
 
